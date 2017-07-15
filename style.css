@@ -3,6 +3,11 @@ body {
   color: #23005b;
 }
 
+.hero {
+  background-image: url('bg.png');
+  background-repeat: repeat;
+}
+
 a {
   color: #71579b;
 }
