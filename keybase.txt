@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/davidmarquardt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lhama.co
+  * I am davidmarquardt (https://keybase.io/davidmarquardt) on keybase.
+  * I have a public key ASDY3ygPgcLzHOgZyJOCoDtQGg7b-cQvjjvjNWHEuo3JSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d8df280f81c2f31ce819c89382a03b501a0edbf9c42f8e3be33561c4ba8dc94a0a",
+      "host": "keybase.io",
+      "kid": "0120d8df280f81c2f31ce819c89382a03b501a0edbf9c42f8e3be33561c4ba8dc94a0a",
+      "uid": "b5d9dbef469a81f382b60e7ae71d5019",
+      "username": "davidmarquardt"
+    },
+    "merkle_root": {
+      "ctime": 1506090083,
+      "hash": "793631a33633571995549b7efa985550bc05c49d021c5db7528f15c8a7cc01480e3f67cdfe08c67f3de2292ab78f00462808b4fb596c7f85b3f537f86bdc0269",
+      "hash_meta": "9c4c5cd10ab75d4c535172c56c1adcdec6e17ee43fdb863814fd2a04b558e2a7",
+      "seqno": 1443712
+    },
+    "service": {
+      "hostname": "lhama.co",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1506090097,
+  "expire_in": 504576000,
+  "prev": "6fe62b95cd8bfab15301170520d491426b95e202c981c0aafee65b2b8e8f5601",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2N8oD4HC8xzoGciTgqA7UBoO2/nEL4474zVhxLqNyUoKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDhkZjI4MGY4MWMyZjMxY2U4MTljODkzODJhMDNiNTAxYTBlZGJmOWM0MmY4ZTNiZTMzNTYxYzRiYThkYzk0YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDhkZjI4MGY4MWMyZjMxY2U4MTljODkzODJhMDNiNTAxYTBlZGJmOWM0MmY4ZTNiZTMzNTYxYzRiYThkYzk0YTBhIiwidWlkIjoiYjVkOWRiZWY0NjlhODFmMzgyYjYwZTdhZTcxZDUwMTkiLCJ1c2VybmFtZSI6ImRhdmlkbWFycXVhcmR0In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA2MDkwMDgzLCJoYXNoIjoiNzkzNjMxYTMzNjMzNTcxOTk1NTQ5YjdlZmE5ODU1NTBiYzA1YzQ5ZDAyMWM1ZGI3NTI4ZjE1YzhhN2NjMDE0ODBlM2Y2N2NkZmUwOGM2N2YzZGUyMjkyYWI3OGYwMDQ2MjgwOGI0ZmI1OTZjN2Y4NWIzZjUzN2Y4NmJkYzAyNjkiLCJoYXNoX21ldGEiOiI5YzRjNWNkMTBhYjc1ZDRjNTM1MTcyYzU2YzFhZGNkZWM2ZTE3ZWU0M2ZkYjg2MzgxNGZkMmEwNGI1NThlMmE3Iiwic2Vxbm8iOjE0NDM3MTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibGhhbWEuY28iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA2MDkwMDk3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjZmZTYyYjk1Y2Q4YmZhYjE1MzAxMTcwNTIwZDQ5MTQyNmI5NWUyMDJjOTgxYzBhYWZlZTY1YjJiOGU4ZjU2MDEiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBAwk/rYD4EUGWdHqbc7wBaOHQZudd2/ozt0h5Dnk2jPfnOXWO+5zmqJgsQViJykf9wdRf5WWFilk7OWC1iStoMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgEd92lc7eDLDZP4GhuebqAJ1A9A/s23ekkDBZ8l5c6AajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidmarquardt
+
+==================================================================
